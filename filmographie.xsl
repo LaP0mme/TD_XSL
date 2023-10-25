@@ -105,9 +105,7 @@
             <li>
                 <h3>
                     <a>
-                        <xsl:attribute name="href">#
-                            <xsl:value-of select="position()"/>
-                        </xsl:attribute>
+                        <xsl:attribute name="onclick">tdm(<xsl:value-of select="position()"/>)</xsl:attribute>
                         <xsl:value-of select="titre"/>
                     </a>
                 </h3>
@@ -134,7 +132,14 @@
                     <xsl:variable name="idActeur" select="@id"/>
                     à joué dans
                     <xsl:value-of select="count(//film/acteurs/acteur[@ref=$idActeur])"/>
-                    film(s)
+                    film(s) :
+                    <xsl:for-each select="//film[acteurs/acteur[@ref = $idActeur]]">
+                        <a>
+                            <li>
+                                <xsl:value-of select="titre"/>
+                            </li>
+                        </a>
+                    </xsl:for-each>
                 </i>
             </li>
         </ul>
