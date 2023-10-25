@@ -4,7 +4,7 @@
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="film.css"/>
-                <title>cinmatographie</title>
+                <title>cinématographie</title>
                 <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
                 <script src="scroll.js"> </script>
                 <link rel="stylesheet" type="text/css" href="scroll.css"/>
