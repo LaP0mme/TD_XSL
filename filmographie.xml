@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet href="filmographie.xsl" type="text/xsl" ?>
+
+<films>
+    <film annee="2011" numVisa="106824">
+        <titre>Le seigneur des anneaux</titre>
+        <realisateur>Peter Jackson</realisateur>
+        <acteurs>
+            <acteur ref="1">Orlando Bloom</acteur>
+            <acteur ref="2">Elijah Wood</acteur>
+            <acteur ref="3">Viggo Mortensen</acteur>
+            <acteur ref="4">Sean Astin</acteur>
+        </acteurs>
+        <exploitation>
+            <origine>Nouvelle-Zélande</origine>
+            <dateSortie>mercredi 2001-12-19</dateSortie>
+            <nbEntrees>6951441</nbEntrees>
+            <nbSalles>1289</nbSalles>
+            <listePays>
+                <pays>Italie</pays>
+                <pays>Allemagne</pays>
+                <pays>Espagne</pays>
+            </listePays>
+        </exploitation>
+        <genres>
+            <genre>Fantastique</genre>
+            <genre>Aventure</genre>
+        </genres>
+        <duree>178</duree>
+        <scenario>
+            Le jeune et timide <ev>Hobbit</ev>, <personnage>Frodon Sacquet</personnage>, hérite
+            <ev>d'un anneau.</ev>
+            Bien loin d'être une simple babiole, il s'agit de
+            <ev>l'Anneau Unique,</ev>
+            un instrument de pouvoir absolu qui permettrait à <personnage>Sauron</personnage>, le Seigneur des ténèbres,
+            de régner sur la <keyword> Terre du Milieu </keyword> et de réduire en esclavage ses peuples.
+            À moins que <personnage>Frodon</personnage>, aidé d'une Compagnie constituée de <ev>Hobbits, d'Hommes, d'un
+            Magicien,
+            d'un Nain, et d'un Elfe</ev>, ne parvienne à emporter l'Anneau à travers la Terre du Milieu
+            jusqu'à la <keyword> Crevasse du Destin, </keyword> lieu où il a été forgé, et à le détruire pour toujours.
+            Un tel périple signifie s'aventurer très loin en
+            <keyword> Mordor, les terres du Seigneur des ténèbres, </keyword>
+            dans une lutte effrénée contre le mal. Cela signifie aussi qu'il faut lui échapper à tout prix...
+        </scenario>
+        <image url="./ImagesFilms/SeigneurDesAnneaux.jpg"/>
+    </film>
+
+    <film annee="2005" numVisa="114089">
+        <titre>King kong</titre>
+        <realisateur>Peter Jackson</realisateur>
+        <acteurs>
+            <acteur ref="5">Naomi Watts</acteur>
+            <acteur ref="6">Jack Black</acteur>
+            <acteur ref="7">Adrien Brody</acteur>
+        </acteurs>
+        <exploitation>
+            <origine>USA</origine>
+            <dateSortie>mercredi 2005-12-14</dateSortie>
+            <nbEntrees>2838759</nbEntrees>
+            <nbSalles>547</nbSalles>
+            <listePays>
+                <pays>Belgique</pays>
+                <pays>Allemagne</pays>
+            </listePays>
+        </exploitation>
+        <genres>
+            <genre>Aventure</genre>
+            <genre>Fantastique</genre>
+        </genres>
+        <duree>188</duree>
+        <scenario>
+            <keyword> New York, 1933. </keyword>
+            Artiste de music-hall à la rue, <personnage>Ann Darrow</personnage>rencontre l'audacieux
+            explorateur/réalisateur <personnage>Carl Denham</personnage>. Ce dernier rêve de terminer son film inachevé,
+            mais nourrit
+            surtout la folle ambition d'être le premier à découvrir
+            <keyword> le secret de la mystérieuse
+                <ev>Skull Island.</ev>
+             </keyword>
+            Il va entraîner <personnage>Ann</personnage> dans sa
+            <keyword> périlleuse aventure... </keyword>
+        </scenario>
+        <image url="./ImagesFilms/KingKong.jpg"/>
+    </film>
+
+    <film annee="2023" numVisa="128056">
+        <titre>Oppenheimer</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <acteurs>
+            <acteur ref="8">Cillian Murphy</acteur>
+            <acteur ref="9">Matt Damon</acteur>
+            <acteur ref="10">Emily Blunt</acteur>
+        </acteurs>
+        <exploitation>
+            <origine>USA</origine>
+            <dateSortie>mercredi 2023-07-19</dateSortie>
+            <nbEntrees>3189408</nbEntrees>
+            <nbSalles>673</nbSalles>
+            <listePays>
+                <pays>Angleterre</pays>
+            </listePays>
+        </exploitation>
+        <genres>
+            <genre>Biopic</genre>
+            <genre>Thriler</genre>
+            <genre>Historique</genre>
+        </genres>
+        <duree>181</duree>
+        <scenario>
+            En 1942, convaincus que <keyword> l’Allemagne nazie </keyword> est en train de développer une arme nucléaire,
+            <keyword> les États-Unis </keyword>
+            initient, dans le plus grand secret,
+            <keyword> le "Projet Manhattan" </keyword>
+            destiné à mettre au point la première
+            <ev>bombe atomique de l’histoire.</ev>
+            Pour piloter ce dispositif, le gouvernement engage <personnage>J. Robert Oppenheimer</personnage>, brillant
+            physicien,
+            qui sera bientôt surnommé
+            <keyword> "le père de la bombe atomique". </keyword>
+            C’est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique,
+            que le scientifique et son équipe mettent au point une <ev>arme révolutionnaire</ev> dont les conséquences,
+            vertigineuses, continuent de peser sur le monde actuel…
+        </scenario>
+        <image url="./ImagesFilms/Oppenheimer.jpg"/>
+    </film>
+
+    <film annee="1994" numVisa="109302">
+        <titre>Forrest Gump</titre>
+        <realisateur>Robert Zemeckis</realisateur>
+        <acteurs>
+            <acteur ref="11">Tom Hanks</acteur>
+            <acteur ref="12">Robin Wright</acteur>
+            <acteur ref="13">Gary Sinise</acteur>
+            <acteur ref="1">Orlando Bloom</acteur>
+        </acteurs>
+        <exploitation>
+            <origine>USA</origine>
+            <dateSortie>mercredi 1994-10-05</dateSortie>
+            <nbEntrees>2010000</nbEntrees>
+            <nbSalles>399</nbSalles>
+            <listePays>
+                <pays>Italie</pays>
+                <pays>Espagne</pays>
+            </listePays>
+        </exploitation>
+        <genres>
+            <genre>Comédie</genre>
+            <genre>Drame</genre>
+        </genres>
+        <duree>142</duree>
+        <scenario>
+            <personnage>Forrest Gump</personnage>
+            est <keyword> le symbole d'une époque, </keyword> un candide dans une Amérique qui a perdu son innocence.
+            Merveilleusement interprété par Tom Hanks, <personnage>Forrest</personnage> vit une série
+            d'aventures, <keyword> de l'état d'handicapé physique
+            à celui de star du football, de héros du Vietnam au roi de la crevette </keyword>, des honneurs de <ev>la
+            Maison Blanche
+        </ev> au bonheur
+            d'une grande histoire d'amour.
+            <ev>Son cœur dépasse les limites de son Q.I.</ev>
+        </scenario>
+        <image url="./ImagesFilms/ForrestGump.jpg"/>
+        <acteurDescription id="1">
+            <nom>Bloom</nom>
+            <prenom>Orlando</prenom>
+            <dateNaissance>13/01/1977</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Canterbury</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="2">
+            <nom>Wood</nom>
+            <prenom>Elijah</prenom>
+            <dateNaissance>28/01/1981</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Cedar Rapids</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="3">
+            <nom>Mortensen</nom>
+            <prenom>Viggo</prenom>
+            <dateNaissance>20/10/1958</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>New York</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="4">
+            <nom>Astin</nom>
+            <prenom>Sean</prenom>
+            <dateNaissance>25/02/1971</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Santa Monica</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="5">
+            <nom>Watt</nom>
+            <prenom>Naomi</prenom>
+            <dateNaissance>28/09/1968</dateNaissance>
+            <sexe>F</sexe>
+            <lieuNaissance>Shoreham</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="6">
+            <nom>Black</nom>
+            <prenom>Jack</prenom>
+            <dateNaissance>28/08/1969</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Hermosa Beach</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="7">
+            <nom>Brody</nom>
+            <prenom>Adrien</prenom>
+            <dateNaissance>14/04/1973</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>New York</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="8">
+            <nom>Murphy</nom>
+            <prenom>Cillian</prenom>
+            <dateNaissance>25/05/1976</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Douglas</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="9">
+            <nom>Damon</nom>
+            <prenom>Matt</prenom>
+            <dateNaissance>08/10/1970</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Cambridge</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="10">
+            <nom>Blunt</nom>
+            <prenom>Emily</prenom>
+            <dateNaissance>23/02/1983</dateNaissance>
+            <sexe>F</sexe>
+            <lieuNaissance>Roehampton</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="11">
+            <nom>Hanks</nom>
+            <prenom>Tom</prenom>
+            <dateNaissance>09/07/1956</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Concord</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="12">
+            <nom>Wright</nom>
+            <prenom>Robin</prenom>
+            <dateNaissance>08/04/1966</dateNaissance>
+            <sexe>F</sexe>
+            <lieuNaissance>Dallas</lieuNaissance>
+        </acteurDescription>
+        <acteurDescription id="13">
+            <nom>Sinise</nom>
+            <prenom>Gary</prenom>
+            <dateNaissance>17/03/1955</dateNaissance>
+            <sexe>M</sexe>
+            <lieuNaissance>Blue Island</lieuNaissance>
+        </acteurDescription>
+    </film>
+
+</films>
+
+        <!-- (e) Compte le nombre de films ayant réalisés au moins 1 million d’entrées.-->
+        <!-- count(/films/film[exploitation/nbEntrees >= 1000000])-->
+
+        <!-- (f) Sélectionne les films ayant réalisés au moins 1 million d’entrées et étant sortis dans au moins 400 salles.-->
+        <!-- /films/film[exploitation/nbEntrees >= 1000000 and exploitation/nbSalles >= 400]-->
+
+        <!-- (g) Sélectionne tous les films sortis dans plus de deux pays européens différents (en plus de la France) -->
+        <!-- /films/film[exploitation/listePays/count(exploitation/listePays/pays) > 2]-->
+
+        <!-- (h) Sélectionne tous les scénarios dont la longueur est supérieure à 200 caractères.
+            /films/film[scenario/text()/string-length() > 200]-->
+
+        <!--(i) S´electionne tous les films sortis en Allemagne.
+            /films/film[exploitation/listePays/pays/contains(text(), "Allemagne")]-->
+
+        <!--(j) S´electionne tous les films sortis en Allemagne ou en Angleterre.
+            /films/film[exploitation/listePays/pays/contains(text(), "Allemagne") or exploitation/listePays/pays/contains(text(), "Angleterre")]-->
+
+        <!-- (k) S´electionne tous les visas de films.
+            /films/film/@numVisa-->
+
+        <!-- (l) S´electionne les titres de films dont le nombre d’acteurs est sup´erieur `a trois.
+            /films/film[count(acteurs/acteur) > 3]/titre-->
+
+        <!-- (m) S´electionne les titres de films dont la dur´ee est inf´erieure `a deux heures.
+            /films/film[duree < 120]/titre-->
+
+        <!-- (n) Sélectionne le deuxième acteur du troisième film.
+            /films/film[3]/acteurs/acteur[2]-->
+
+        <!-- (o) S´electionne tous les films sortis un mercredi
+            /films/film[exploitation/dateSortie/contains(text(), "mercredi")]-->
+
+        <!-- (p) S´electionne tous les acteurs dont le nom fini par on.
+            /films/film/acteurs/acteur[substring(text(), string-length(text()) - 1) = "on"]-->
+
+        <!-- (q) S´electionne le titre des films qui sont sortis en salle en 2011. en utilisant contains
+            /films/film[exploitation/dateSortie/contains(text(), "2011")]-->
+
+        <!-- (r) S´electionne tous les films sortis `a la fois en Allemagne et en Angleterre
+            /films/film[exploitation/listePays/pays/contains(text(), "Allemagne") and exploitation/listePays/pays/contains(text(), "Angleterre")]-->
